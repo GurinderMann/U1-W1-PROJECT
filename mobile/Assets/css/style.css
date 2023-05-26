@@ -1,0 +1,182 @@
+.container{
+    font-family: 'Open Sans', sans-serif;
+    max-width: 470px;
+    
+}
+
+
+
+#logo{
+    background-color: black;
+    height: 110px;
+}
+#image{
+    width: 140px;
+    margin-left: 165px;
+    margin-top: 30px;
+}
+.title {
+    background-image: url(../images/banner.jpg) ;
+    height: 330px;
+    background-size: contain;
+    max-width: 470px;
+    
+    
+}
+#corso{
+    font-family: 'Montserrat', sans-serif;
+    color: #25a2c3 ;
+    font-weight: bold;
+    font-size: 2.4em;
+    text-align: center;
+    max-width: 250px;
+    margin-left: 110px;
+        padding-top: 30px;
+    }
+    
+#description{
+    text-align: center;
+    max-width: 250px;
+    margin-left: 110px;
+    margin-bottom:25px ;
+    margin-top: 30px;
+    word-spacing: 2px;
+    font-size: 1.2rem;
+}
+#submit{
+    background-color:#f04c2f ;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: white;
+    border: none;
+    height: 35px;
+    width: 115px;
+    margin-left: 170px;
+    border-radius: 4px;
+   
+ 
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #25a2c3 ;
+    font-weight: bold;
+    text-align: center;
+    max-width: 250px;
+    margin-left: 110px;
+    padding-top: 30px;
+    margin-bottom: 20px;
+
+}
+.first-text{
+    text-align: center;
+    max-width: 250px;
+    margin-left: 110px;
+   
+}
+#notebook{
+    width: 250px;
+    margin-left: 110px;
+    margin-top: 30px;
+    border-radius: 120px;
+
+}
+.red-box{
+    background-color: #f82f0c ;
+    color: white;
+    height: 200px;
+    text-align: center;
+    max-width: 470px;
+    margin-top: 50px;
+    
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 1.5em;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    margin-left: 10px;
+    
+    }
+
+#mesi{
+    width: 290px;
+    margin-left: 95px;
+    padding-bottom: 20px;
+    font-size: 0.8rem;
+   font-style: italic;
+
+}
+h4{
+    margin-bottom: 10px;
+    margin-left: 10px;
+   
+}
+#ceo{
+    font-size: 0.6rem;
+    margin-left: 15px;
+}
+    
+
+ .prima-scheda{
+    max-width: 350px;
+    margin-top: 30px;
+    background-color: white;
+    border: solid rgb(214, 214, 214) 1px;
+    margin-left: 60px;
+    height: 380px;
+    
+ }
+ #computer{
+   width: 350px;}
+
+.pc{
+    font-family: 'Montserrat', sans-serif;
+    color: #25a2c3 ;
+    font-weight: bold;
+    margin-left: 45px;
+    font-size: 1.3em;
+    
+}
+    
+.second-text{
+    text-align: center;
+    max-width: 300px;
+    margin-left: 20px;
+
+}   
+ 
+footer{
+    margin-top: 70px;
+    max-width: 470px;
+    height: 250px;
+    background-color: #25a2c3;
+    text-align: center;
+    color: white;
+   
+}
+.adress{
+    padding-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 7px;
+    
+}
+a{
+   
+    color: white;
+}
+   
+hr{
+    margin-left: 150px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 190px;
+    height: 0px;
+    border: none;
+    border-top: 1px solid white;
+}
+
+#copyright{
+    padding-left: 20px;
+    font-size: 0.9em;
+}
