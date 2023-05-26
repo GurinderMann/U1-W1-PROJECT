@@ -1,6 +1,6 @@
 .container{
     font-family: 'Open Sans', sans-serif;
-    max-width: 470px;
+    max-width: 1920px;
     
 }
 
@@ -12,14 +12,15 @@
 }
 #image{
     width: 140px;
-    margin-left: 165px;
+    margin-left: 45px;
     margin-top: 30px;
 }
 .title {
     background-image: url(../images/banner.jpg) ;
     height: 330px;
-    background-size: contain;
-    max-width: 470px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-width: 1920px;
     
     
 }
@@ -29,15 +30,15 @@
     font-weight: bold;
     font-size: 2.4em;
     text-align: center;
-    max-width: 250px;
-    margin-left: 110px;
+    max-width: 450px;
+    margin-left: 700px;
         padding-top: 30px;
     }
     
 #description{
     text-align: center;
-    max-width: 250px;
-    margin-left: 110px;
+    max-width: 450px;
+    margin-left: 700px;
     margin-bottom:25px ;
     margin-top: 30px;
     word-spacing: 2px;
@@ -51,33 +52,26 @@
     border: none;
     height: 35px;
     width: 115px;
-    margin-left: 170px;
+    margin-left: 870px;
     border-radius: 4px;
    
  
 }
-h3{
-    font-family: 'Montserrat', sans-serif;
-    color: #25a2c3 ;
-    font-weight: bold;
-    text-align: center;
-    max-width: 250px;
-    margin-left: 110px;
-    padding-top: 30px;
-    margin-bottom: 20px;
+.content{
+    display: inline-block;
+    max-width: 400px;
+    margin-left: 300px;
+    margin-bottom: 120px;
+    margin-top: 100px;
 
-}
-.first-text{
-    text-align: center;
-    max-width: 250px;
-    margin-left: 110px;
-   
+    
 }
 #notebook{
-    width: 250px;
+    display: inline-block;
+    width: 350px;
     margin-left: 110px;
     margin-top: 30px;
-    border-radius: 120px;
+    border-radius: 180px;
 
 }
 .red-box{
@@ -85,7 +79,7 @@ h3{
     color: white;
     height: 200px;
     text-align: center;
-    max-width: 470px;
+    max-width: 1920px;
     margin-top: 50px;
     
 }
@@ -100,8 +94,8 @@ h2{
     }
 
 #mesi{
-    width: 290px;
-    margin-left: 95px;
+    width: 450px;
+    margin-left: 730px;
     padding-bottom: 20px;
     font-size: 0.8rem;
    font-style: italic;
@@ -117,18 +111,25 @@ h4{
     margin-left: 15px;
 }
     
-
+.schede{
+    margin-left: 400px;
+    margin-top: 100px;
+}
  .prima-scheda{
-    max-width: 350px;
-    margin-top: 30px;
+    display: inline-block;
+   max-width: 350px;
     background-color: white;
     border: solid rgb(214, 214, 214) 1px;
-    margin-left: 60px;
-    height: 380px;
+   height: 380px;
+   margin-right: 20px;
     
  }
- #computer{
-   width: 350px;}
+
+ .computer{
+ max-width: 350px;
+
+}
+ 
 
 .pc{
     font-family: 'Montserrat', sans-serif;
@@ -148,7 +149,7 @@ h4{
  
 footer{
     margin-top: 70px;
-    max-width: 470px;
+    max-width: 1920px;
     height: 250px;
     background-color: #25a2c3;
     text-align: center;
@@ -167,7 +168,7 @@ a{
 }
    
 hr{
-    margin-left: 150px;
+    margin-left: 865px;
     margin-top: 30px;
     margin-bottom: 30px;
     width: 190px;
@@ -179,4 +180,19 @@ hr{
 #copyright{
     padding-left: 20px;
     font-size: 0.9em;
+}
+
+.job{
+    margin-bottom: 20px;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-right: 70px;
+    
+}
+b{
+    font-family: 'Montserrat', sans-serif;
+    color: #25a2c3 ;
+    font-weight: bold;
+    font-size: 1em;
+    
 }
