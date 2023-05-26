@@ -56,4 +56,27 @@
    
  
 }
-    
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #25a2c3 ;
+    font-weight: bold;
+    text-align: center;
+    max-width: 250px;
+    margin-left: 90px;
+    padding-top: 30px;
+    margin-bottom: 20px;
+
+}
+.first-text{
+    text-align: center;
+    max-width: 250px;
+    margin-left: 90px;
+   
+}
+#notebook{
+    width: 250px;
+    margin-left: 90px;
+    margin-top: 30px;
+    border-radius: 120px;
+
+}
